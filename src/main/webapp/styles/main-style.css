@@ -1,0 +1,15 @@
+@CHARSET "UTF-8";
+
+BODY {
+	background: #FFF;
+}
+
+header {
+	background-image: url(../images/header.jpg);
+	position: fixed;
+	top: 0;
+	left: 50px;
+	width: 800px;
+	height: 450px;
+	border: 1px solid #000;
+}
